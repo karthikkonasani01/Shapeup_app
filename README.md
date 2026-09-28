@@ -12,7 +12,6 @@ Your journey to wellness starts here!
 # Team Members
 - Karthik
 - chaitanya
-- Vishnu vardhan
 - Harshith
 - jaya venkata sai prakash
 
